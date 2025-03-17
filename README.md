@@ -1,4 +1,4 @@
-👋 Hey there, fellow coder!
+👋 Hey there, fellow coder!<br />
 I'm Alexander Grill, a highly caffeinated, semi-functional developer who spends more time debugging than actually coding. 🐛🔍
 
 🤖 About Me:
